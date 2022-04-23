@@ -1,12 +1,12 @@
 
 
 <h1>### Namaskar! I'm Sahil Shrestha 👋</h1>
-<center>Currently studying in UVPCE, Ganpat university🏫🎓 !
+
+
+
+<h2 style="text-align: center"> Currently studying in UVPCE, Ganpat university🏫🎓 !
 I believe that world is tesseract we are the hostages 😁
-I do know that HTML is not a programming language! ✌️</center>
-
-
-
+I do know that HTML is not a programming language! ✌️</h2>
 
 
 
