@@ -1,4 +1,4 @@
-### Namaskar! I'm Sahil Shrestha 👋
+### Namaskar! I'm Sahil Shrestha 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
 
 
 - 🔭 I’m currently working on Mvtech
