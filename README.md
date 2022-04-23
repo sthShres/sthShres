@@ -1,6 +1,6 @@
 
 
-<h2>### Namaskar! I'm Sahil Shrestha 👋</h2>
+<h2> Namaskar! I'm Sahil Shrestha 👋</h2>
 
   <center>
 
