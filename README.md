@@ -1,4 +1,18 @@
-### Namaskar! I'm Sahil Shrestha 👋
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
+<h1>### Namaskar! I'm Sahil Shrestha 👋</h1>
+<p>Currently studying in UVPCE, Ganpat university🏫🎓 !
+I believe that world is tesseract we are the hostages 😁
+I do know that HTML is not a programming language! ✌️</p>
+
+
+
+
+
 
 
 - 🔭 I’m currently working on Mvtech
