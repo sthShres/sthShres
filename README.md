@@ -1,4 +1,4 @@
-### Namaskar! I'm Sahil Shrestha 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
+### Namaskar! I'm Sahil Shrestha 👋
 
 
 - 🔭 I’m currently working on Mvtech
@@ -9,5 +9,6 @@
 - 📫 How to reach me: twitter @ratnashres
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Moon never swallows!!!
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
 
   <img src = "https://github-readme-stats.vercel.app/api?username=sthShres&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
