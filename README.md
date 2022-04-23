@@ -4,7 +4,7 @@
 
 
 
-<h2 style="text-align: center"> Currently studying in UVPCE, Ganpat university🏫🎓 !
+<h3 style="text-align: center"> Currently studying in UVPCE, Ganpat university🏫🎓 !
 I believe that world is tesseract we are the hostages 😁
 I do know that HTML is not a programming language! ✌️</h2>
 
