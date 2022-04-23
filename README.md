@@ -4,8 +4,8 @@
 
 
 
-<h4 style="text-align: center"> Currently studying in UVPCE, Ganpat university🏫🎓 !
-I believe that world is tesseract we are the hostages 😁
+<h4 style="text-align: center"> Currently studying in UVPCE, Ganpat university🏫🎓 !<br>
+I believe that world is tesseract we are the hostages 😁<br>
 I do know that HTML is not a programming language! ✌️</h4>
 
 
