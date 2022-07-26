@@ -1,5 +1,5 @@
 
-
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"><br><br>
 <h2> Hello Everyone! I'm Sahil Shrestha 👋</h2>
 
   <center>
@@ -21,7 +21,7 @@ I believe that world is tesseract we are the hostages 😁<br>
 - ⚡ Fun fact: I do know that HTML is not a programming language!!!!
 
 
-<br><br>
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"><br><br>
+
+- <br><br>
 
   <img src = "https://github-readme-stats.vercel.app/api?username=sthShres&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
